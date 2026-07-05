@@ -1,0 +1,51 @@
+# Geotechnik — Braunschweig
+
+> Geotechnical engineering services in Braunschweig, Deutschland.
+
+## Services
+- [Anker](https://braunschweig.geotechnik.biz/anker/)
+- [Atterberg Grenzen](https://braunschweig.geotechnik.biz/atterberg-grenzen/)
+- [Aushub](https://braunschweig.geotechnik.biz/aushub/)
+- [Aushub Monitoring](https://braunschweig.geotechnik.biz/aushub-monitoring/)
+- [Bodenplatten](https://braunschweig.geotechnik.biz/bodenplatten/)
+- [Bodenverbesserung](https://braunschweig.geotechnik.biz/bodenverbesserung/)
+- [Boschungsstabilitat](https://braunschweig.geotechnik.biz/boschungsstabilitat/)
+- [Cbr Strasse](https://braunschweig.geotechnik.biz/cbr-strasse/)
+- [Cpt Versuch](https://braunschweig.geotechnik.biz/cpt-versuch/)
+- [Erdbebenisolierung](https://braunschweig.geotechnik.biz/erdbebenisolierung/)
+- [Flexibler Belag](https://braunschweig.geotechnik.biz/flexibler-belag/)
+- [Fundamente](https://braunschweig.geotechnik.biz/fundamente/)
+- [Grundungen](https://braunschweig.geotechnik.biz/grundungen/)
+- [Hange](https://braunschweig.geotechnik.biz/hange/)
+- [In Situ Durchlassigkeit](https://braunschweig.geotechnik.biz/in-situ-durchlassigkeit/)
+- [Injektionen](https://braunschweig.geotechnik.biz/injektionen/)
+- [Korngrossenanalyse](https://braunschweig.geotechnik.biz/korngrossenanalyse/)
+- [Labor](https://braunschweig.geotechnik.biz/labor/)
+- [Labor In Situ](https://braunschweig.geotechnik.biz/labor-in-situ/)
+- [Masw](https://braunschweig.geotechnik.biz/masw/)
+- [Pfahle](https://braunschweig.geotechnik.biz/pfahle/)
+- [Proctor Versuche](https://braunschweig.geotechnik.biz/proctor-versuche/)
+- [Ruttelverdichtung](https://braunschweig.geotechnik.biz/ruttelverdichtung/)
+- [Sandkegel Dichte](https://braunschweig.geotechnik.biz/sandkegel-dichte/)
+- [Schottersaulen](https://braunschweig.geotechnik.biz/schottersaulen/)
+- [Schurfgruben](https://braunschweig.geotechnik.biz/schurfgruben/)
+- [Seismik](https://braunschweig.geotechnik.biz/seismik/)
+- [Seismische Mikrozonierung](https://braunschweig.geotechnik.biz/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://braunschweig.geotechnik.biz/seismische-refraktion/)
+- [Spt Bohrung](https://braunschweig.geotechnik.biz/spt-bohrung/)
+- [Starrer Belag](https://braunschweig.geotechnik.biz/starrer-belag/)
+- [Strassenbau](https://braunschweig.geotechnik.biz/strassenbau/)
+- [Stutzmauern](https://braunschweig.geotechnik.biz/stutzmauern/)
+- [Tiefe Aushube](https://braunschweig.geotechnik.biz/tiefe-aushube/)
+- [Triaxialversuch](https://braunschweig.geotechnik.biz/triaxialversuch/)
+- [Untersuchung](https://braunschweig.geotechnik.biz/untersuchung/)
+- [Verflussigung](https://braunschweig.geotechnik.biz/verflussigung/)
+- [Weichbodentunnel](https://braunschweig.geotechnik.biz/weichbodentunnel/)
+- [Widerstand](https://braunschweig.geotechnik.biz/widerstand/)
+
+## Contact
+- Website: https://braunschweig.geotechnik.biz/
+
+## About
+This site provides geotechnical engineering services in Braunschweig, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
